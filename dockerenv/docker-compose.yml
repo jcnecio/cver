@@ -1,0 +1,5 @@
+version: "3.0"
+services:
+  cver:
+    image: jjanzic/docker-python3-opencv:latest
+    container_name: run_env
